@@ -1,0 +1,18 @@
+# Security
+.env
+
+
+# Virtual Environments
+.venv/
+venv/
+
+# Database
+chroma_db/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Local Test Folders
+codebase_to_scan/
+github project/
