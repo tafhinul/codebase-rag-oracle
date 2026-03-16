@@ -4,6 +4,15 @@
 
 ---
 
+## 📸 Screenshots
+
+| Chat Interface | AI Response |
+|:---:|:---:|
+| ![Codebase Oracle Chat UI](assets/screenshot1.png) | ![AI Q&A Response](assets/screenshot2.png) |
+
+---
+
+
 ## 🧠 What Is This?
 
 **Codebase Oracle** is a local RAG (Retrieval-Augmented Generation) agent that lets you **chat with your codebase**. Instead of manually reading through files to understand how something works, you simply ask — and the AI searches your code, retrieves the most relevant snippets, and explains them clearly.
